@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"tassist8b51f772": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

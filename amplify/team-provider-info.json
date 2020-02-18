@@ -1,0 +1,22 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tassist-dev-161242-authRole",
+            "UnauthRoleArn": "arn:aws:iam::561315978321:role/amplify-tassist-dev-161242-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::561315978321:role/amplify-tassist-dev-161242-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-tassist-dev-161242-deployment",
+            "UnauthRoleName": "amplify-tassist-dev-161242-unauthRole",
+            "StackName": "amplify-tassist-dev-161242",
+            "StackId": "arn:aws:cloudformation:ap-south-1:561315978321:stack/amplify-tassist-dev-161242/bc35d1e0-4f16-11ea-a27c-06ee49008466",
+            "AmplifyAppId": "d35v55qennqer5"
+        },
+        "categories": {
+            "auth": {
+                "tassist8b51f772": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"842539029217-33hl6hvhfumq1caksa7r5c4th7srelkt.apps.googleusercontent.com\",\"client_secret\":\"hJPY_w4xJRiQCnmgc7Y2kj_7\"}]"
+                }
+            }
+        }
+    }
+}
